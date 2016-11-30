@@ -1,4 +1,9 @@
 #Hello World
 
-hw = "hello world!"
+hw = “initialising hello world!"
 print(hw)
+
+if user = “happy”:
+	print(“hello_world!!!!”)
+else:
+	print(“hello_world)
